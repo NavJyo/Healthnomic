@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>PREDICTOMATIC</title> 
+	<link rel="canonical" href="https://getbootstrap.com/docs/4.4/examples/carousel/#">
+	
+	<link href="D:\Desktop\project\bootstrap-5.0.0-beta3-dist\css\bootstrap.min.css" rel="stylesheet">
+    <link href="D:\Desktop\project\carousel.css" rel="stylesheet">
+    <style>
+        demo{
+            border: 1px black;
+        }
+        h1{
+            text-align: center;
+			color: black;
+			
+        }
+        p
+        {
+            text-align: center;
+			
+			  
+        }
+        div {
+			text-align: center;
+			padding-top: 50px;
+  			padding-right: 30px;
+  			padding-bottom: 50px;
+  			padding-left: 80px;
+		}
+        body
+		{
+			background-image: url('data:image/jpeg;base64,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'); 
+			background-repeat: no-repeat; 
+  			background-attachment: fixed;
+  			background-size: cover
+		}
+		
+    </style>
+</head>
+<body>
+    <h1>
+        <b>HEALTHNOMIC-EARLY PREDICTOR</b>
+
+    </h1> 
+    <hr>
+    <p>
+
+    <DIV>
+        <h2>Are you okay?</h2>
+        <br>
+        <button onclick="document.location='https://depressedalways.herokuapp.com/'">Nah!What's wrong with me?</button>
+    </DIV>
+    </p> 
+    <p>
+    <DIV>
+        <h2>Irregular cycle length ?</h2>
+        <br>
+        <button onclick="document.location='https://ananavya.herokuapp.com/'">Let's talk PCOS</button>
+    </DIV>
+    </p>
+
+    <p>
+        <DIV>
+            <h2>Out of breath? </h2>
+            <br>
+            <button onclick="document.location='https://stinkyasthma.herokuapp.com/'">Asthma </button> 
+        </DIV>
+    </p> 
+
+							<!-- Bootstrap core JavaScript
+							================================================== -->
+							<!-- Placed at the end of the document so the pages load faster -->
+							<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+							<script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery-slim.min.js"><\/script>')</script>
+							<script src="../static/js/vendor/popper.min.js"></script>
+							<script src="../static/js/bootstrap.min.js"></script>
+							<!-- Just to make our placeholder images work. Don't actually copy the next line! -->
+							<script src="../static/js/holder.min.js"></script>
+						</body>
+					</html>
+</body>
+</html>
