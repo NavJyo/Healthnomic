@@ -27,6 +27,8 @@ Link: https://healthnomic26.herokuapp.com/
 5. [Breast Cancer](https://github.com/NavJyo/Breast-Cancer-prediction-using-machine-learning) 
 6. [Diabetes](https://github.com/NavJyo/Diabetes-prediction-using-machine-learning)
 7. [Depression](https://github.com/NavJyo/Depression-prediction-using-Machine-learning)  
+8. [Liver Cirrhosis](https://github.com/NavJyo/Liver-Cirrhosis-prediction-using-machine-learning)  
+9. [Lung Cancer](https://github.com/NavJyo/Lung-Cancer-Prediction-using-machine-learning) 
 
 
 ### Overview
