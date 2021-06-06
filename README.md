@@ -19,8 +19,9 @@ Link: https://healthnomic26.herokuapp.com/
 ![healthnomic](https://user-images.githubusercontent.com/36689965/120914042-0af4d900-c6b9-11eb-88ad-6f74e7a81525.JPG)
 
 ### Github Links to various diseases 
-https://github.com/NavJyo/Chronic-Kidney-Disease-prediction-using-machine-learning 
-https://github.com/NavJyo/Asthma-Prediction-using-machine-learning
+
+1. [Chronic Kidney Disease](https://github.com/NavJyo/Chronic-Kidney-Disease-prediction-using-machine-learning )
+2. Asthma Prediction https://github.com/NavJyo/Asthma-Prediction-using-machine-learning
 https://github.com/NavJyo/PCOS-prediction-using-machine-learning
 https://github.com/NavJyo/Parkinsons-disease-prediction-using-machine-learning
 https://github.com/NavJyo/Breast-Cancer-prediction-using-machine-learning
