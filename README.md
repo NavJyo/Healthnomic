@@ -21,12 +21,13 @@ Link: https://healthnomic26.herokuapp.com/
 ### Github Links to various diseases 
 
 1. [Chronic Kidney Disease](https://github.com/NavJyo/Chronic-Kidney-Disease-prediction-using-machine-learning )
-2. Asthma Prediction https://github.com/NavJyo/Asthma-Prediction-using-machine-learning
-https://github.com/NavJyo/PCOS-prediction-using-machine-learning
-https://github.com/NavJyo/Parkinsons-disease-prediction-using-machine-learning
-https://github.com/NavJyo/Breast-Cancer-prediction-using-machine-learning
-https://github.com/NavJyo/Diabetes-prediction-using-machine-learning
-https://github.com/NavJyo/Depression-prediction-using-Machine-learning
+2. [Asthma](https://github.com/NavJyo/Asthma-Prediction-using-machine-learning )
+3. [PCOS](https://github.com/NavJyo/PCOS-prediction-using-machine-learning ) 
+4. [Parkinson's Disease](https://github.com/NavJyo/Parkinsons-disease-prediction-using-machine-learning) 
+5. [Breast Cancer](https://github.com/NavJyo/Breast-Cancer-prediction-using-machine-learning) 
+6. [Diabetes](https://github.com/NavJyo/Diabetes-prediction-using-machine-learning)
+7. [Depression](https://github.com/NavJyo/Depression-prediction-using-Machine-learning)  
+
 
 ### Overview
 
