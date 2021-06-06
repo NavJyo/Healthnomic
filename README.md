@@ -18,6 +18,14 @@ Link: https://healthnomic26.herokuapp.com/
 
 ![healthnomic](https://user-images.githubusercontent.com/36689965/120914042-0af4d900-c6b9-11eb-88ad-6f74e7a81525.JPG)
 
+### Github Links to various diseases 
+https://github.com/NavJyo/Chronic-Kidney-Disease-prediction-using-machine-learning 
+https://github.com/NavJyo/Asthma-Prediction-using-machine-learning
+https://github.com/NavJyo/PCOS-prediction-using-machine-learning
+https://github.com/NavJyo/Parkinsons-disease-prediction-using-machine-learning
+https://github.com/NavJyo/Breast-Cancer-prediction-using-machine-learning
+https://github.com/NavJyo/Diabetes-prediction-using-machine-learning
+https://github.com/NavJyo/Depression-prediction-using-Machine-learning
 
 ### Overview
 
@@ -33,6 +41,8 @@ The Code is written in Python 3.6.10. If you don't have Python installed you can
 
 
 pip install -r requirements.txt
+
+
 
 ### Deployement on Heroku
 
@@ -62,7 +72,7 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
  
 
 ### Bug / Feature Request
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue here by including your search query and the expected result 
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue here by including your search query and the expected result. 
 
 Technologies Used
 
