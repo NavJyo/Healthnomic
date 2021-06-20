@@ -1,9 +1,8 @@
 ### Healthnomic 
 Healthnomic is derived from the word health and economy.  The physical access to hospitals is still the major barrier to both preventive and curative health services, and also the major differences between the Rural and the Urban India. By making use of web technology and AI people in remote areas can also get access to the health-care.
 
-Chronic Kidney Disease Prediction:
 
-Table of Content
+### Table of Content
 1. Demo
 2. Overview
 3. Motivation
@@ -12,7 +11,7 @@ Table of Content
 6. Directory Tree
 7. Bug / Feature Request
 
-Demo
+### Demo
 
 Link: https://healthnomic26.herokuapp.com/
 
@@ -79,7 +78,7 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 ### Bug / Feature Request
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue here by including your search query and the expected result. 
 
-Technologies Used
+### Technologies Used
 
 ![flask](https://user-images.githubusercontent.com/36689965/117563372-0ab9eb80-b0c3-11eb-9a6d-52962fd46e07.png)  ![python](https://user-images.githubusercontent.com/36689965/117563454-97fd4000-b0c3-11eb-866b-3929f09b6cbc.jpg)
 ![heroku](https://user-images.githubusercontent.com/36689965/117563393-2ae9aa80-b0c3-11eb-9731-2c681ca645d6.png) ![sklearn](https://user-images.githubusercontent.com/36689965/117563487-e1e62600-b0c3-11eb-83bb-e6cb104408f2.png)
